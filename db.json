@@ -1,0 +1,29 @@
+{
+  "Students": [
+    {
+      "name": "Sandeep",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHTYryzYuoTs_l5pzuIn7RdnDcZer8IsKpb9N49RxuDMw6dbECIIaRqXCEuQKnYOjbf1L1xkRaHIDhuw2y6sJYnhbbkKVCF3fo54qg_4tAbg&s=10",
+      "id": "1"
+    },
+    {
+      "name": "Kiran",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2K6HDWM5PxbliIgszUb0nt_kxLs3vP-Xl-kfdSwKxIV8-D4iVXXAxjAf9gBes__wmWq4tOhwFaylv_LEuWjNMLx4V9y3KjESYj_txowU_&s=10",
+      "id": "2"
+    },
+    {
+      "name": "pavan",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHeUIIKakzHd3822WJYTas94yb5RSsiIY1IYjI3yjCbg&s=10",
+      "id": "3"
+    },
+    {
+      "name": "Hameed",
+      "image": "https://africawildlifesafari.com/wp-content/uploads/2024/03/Zebra-1.png",
+      "id": "4"
+    },
+    {
+      "name": "Prem",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1_UvyMLoNXkAHSkeEdCOVPy2Pc9qliQ-sFsncx0eLJwP3T-HKJOrkvjhqd-5MDi_TJyo0HchrKkgv6Zl2JO5cwMfnsK3pb3Ldinq01Fxw&s=10",
+      "id": "u0-8zWm"
+    }
+  ]
+}
